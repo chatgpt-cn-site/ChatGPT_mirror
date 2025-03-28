@@ -5,7 +5,7 @@
 本文提供完整的 **ChatGPT镜像网站** 使用指南，推荐国内可用的 **ChatGPT镜像网站**，支持 GPT-4、GPT-4o，永久免费，无需翻墙，适合中文用户。  
 本项目旨在为用户提供一站式的 **ChatGPT镜像网站** 推荐，整理了国内可用的 **ChatGPT镜像资源** 和访问教程，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
 
-ChatGPT镜像网站：[snakegpt.work](https://snakegpt.work) 
+ChatGPT镜像网站：[snakegpt.work](https://snakegpt.work)    
 ChatGPT中文版：[gptcat.net](https://gptcat.net) 
 
 ---
