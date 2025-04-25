@@ -4,7 +4,7 @@
 
 在国内**无需翻墙**，就能直接在线使用 ChatGPT 镜像网站~
 
-*   **ChatGPT 中文版入口：** [https://snakegpt.work](https://snakegpt.chat)
+*   **ChatGPT 中文版入口：** [https://snakegpt.chat](https://snakegpt.chat)
 *   **ChatGPT 镜像网站：** [https://gptcat.cc/](https://gptcat.cc/)
 
 ---
@@ -25,7 +25,7 @@ ChatGPT镜像网站（ChatGPT Mirror）是指将原始官网的内容复制到�
 
 ## 国内推荐的 ChatGPT镜像网站
 
-*   **[https://snakegpt.work](https://snakegpt.chat)** - 已稳定运行 2年+，支持 GPT-4o、4o画图、4.1 以及 3.5，支持助手、插件、PPT、思维导图等实用功能。
+*   **[https://snakegpt.chat](https://snakegpt.chat)** - 已稳定运行 2年+，支持 GPT-4o、4o画图、4.1 以及 3.5，支持助手、插件、PPT、思维导图等实用功能。
 *   **[https://gptcat.cc/](https://gptcat.cc/)** - 已经运营一年半支持 GPT-4o、4o画图、4.1、o1、o3 及 Gemini 2.5 Pro、Claude 3.7 sonnet、Grok 3 最先进的模型，无限使用，深受喜爱，被模仿但从未被超越~
 *   **[https://chat.gptcat.cc/](https://chat.gptcat.cc/)** - 支持GPT4o高级绘图，一比一还原官网，可以使用实时语音对话，视频对话。
 *   **[https://ai-panda.xyz/](https://ai-panda.xyz/login?invite_code=34137c47)**  ——  运营时长两年，支持GPT4.0、GPT4o。
